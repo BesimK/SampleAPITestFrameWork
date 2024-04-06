@@ -1,4 +1,4 @@
-# Inar User Management API Testing Framework
+# API Testing Framework
 
 This project is a testing framework for the Inar User Management API. It uses Maven for dependency management, Cucumber for behavior-driven development (BDD), Java as the programming language, RestAssured for API interaction, and Log4J2 for logging.
 
