@@ -22,7 +22,7 @@ The framework reads the base URI and other configuration settings from `applicat
 
 Example `application.properties` content:
 
-base.uri=https://reqres.in/api
+base.uri=https://sample/api
 
 
 ### Running Tests
@@ -73,8 +73,6 @@ Please read `CONTRIBUTING.md` for details on our code of conduct, and the proces
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Authors
-
-- **Hamza Cetin** - *Initial work* - [HamzaCetin](https://github.com/hamzaalictn)
 
 
 
